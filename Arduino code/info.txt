@@ -1,1 +1,58 @@
-Zet hier de arduino code
+Zet hier de arduino codeconst int BUTTON = 4;
+const int LED = 3;
+int BUTTONstate = 0;
+
+void setup()
+{
+  pinMode(BUTTON, INPUT);
+  pinMode(LED, OUTPUT);
+}
+
+void loop()
+{
+  BUTTONstate = digitalRead(BUTTON);
+  if (BUTTONstate == HIGH)
+  {
+    digitalWrite(LED, HIGH);
+    delay(300);
+    digitalWrite(LED, LOW);
+    delay(300);
+     digitalWrite(LED, HIGH);
+    delay(300);
+    digitalWrite(LED, LOW);
+    delay(300);
+     digitalWrite(LED, HIGH);
+    delay(200);
+    digitalWrite(LED, LOW);
+    delay(200);
+     digitalWrite(LED, HIGH);
+    delay(200);
+    digitalWrite(LED, LOW);
+    delay(200);
+     digitalWrite(LED, HIGH);
+    delay(100);
+    digitalWrite(LED, LOW);
+    delay(100);
+     digitalWrite(LED, HIGH);
+    delay(100);
+    digitalWrite(LED, LOW);
+    delay(100);
+    digitalWrite(LED, HIGH);
+    delay(100);
+    digitalWrite(LED, LOW);
+    delay(100);
+    digitalWrite(LED, HIGH);
+    delay(100);
+    digitalWrite(LED, LOW);
+    delay(100);
+     digitalWrite(LED, HIGH);
+    delay(100);
+    digitalWrite(LED, LOW);
+    delay(300);
+    digitalWrite(LED, HIGH);
+    delay(3000);
+  } 
+  else{
+    digitalWrite(LED, LOW);
+  }
+}
