@@ -5,9 +5,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Bieke Bellot
+- Klasgroep A
+- Bieke, Seppe, Ali
 
 
 ## Storyline 
@@ -19,8 +19,8 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 3. (Guidance)
 4. (Crossing)
 5. (Trials)
-6. (Approach)
-7. (Crisis)
+6. (Approach)!!
+7. (Crisis)!!
 8. (Treasure)
 9. (Result)
 10. (Return)
