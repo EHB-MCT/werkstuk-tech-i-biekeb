@@ -29,12 +29,15 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 13. (new status quo)
 
 ## Experience
-
+ik gaf deze weer door een gevangnis in illustrator te maken. De personages die in de gevangenis zitten heb ik zwart gemaakt om de emotie depressie te tonen. 
+Ik zou echte metale baren toegevoegd kunnen hebben om het effect nog groter te maken
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
 
 ## Interaction
 
 Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
+
+Als interaction heb ik een rode knop toegevoegd die een lichtje laat branden om zo aan te tonen dat de aarde ontploft is. Ik had in plaats van het lampje een oled dislpay scherm kunnen toevoegen. De knop zou ik een grote knop gebruikt hebben zodat je echt het gevoel krijft dat je de aarde hebt laten ontploffen. 
 
 
 
